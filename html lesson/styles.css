@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #daffa3;
+}
+
+header {
+  background-color: #a3b2ff;
+}
+header {
+  background-color: #fff;
+}
+div {
+  background-color: #a3b2ff;
+}
+.firstdiv,
+.pimer {
+  background-color: #ffa3eb;
+  display: block;
+  width: 50%;
+}
+#firstelement {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+div > h2 {
+  color: #fff;
+  font-size: 3rem;
+  text-align: center;
+}
